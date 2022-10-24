@@ -111,3 +111,25 @@ li {
 .skill p {
     padding: 10px 0 10px 0;
 }
+.fa {
+    padding: 20px;
+    font-size: 100px;
+    width: 60px;
+    text-align: center;
+    text-decoration: none;
+    margin: 0px 2px;
+    border-radius: 50%;
+    border: 2px solid white;
+  }
+  .fa-facebook {
+    background: rgba(255, 255, 255, 0.327);
+    color: white;
+  }
+  .fa-youtube {
+    background: rgba(255, 255, 255, 0.327);;
+    color: white;
+  }
+  .fa-instagram {
+    background: rgba(255, 255, 255, 0.327);;
+    color: white;
+  }
